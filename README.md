@@ -25,4 +25,5 @@ The Given Function:
             }
         }
 1 Control Flow Graph of the Function 
+
 ![](Images/Control%20Flow%20Graph.JPG)
