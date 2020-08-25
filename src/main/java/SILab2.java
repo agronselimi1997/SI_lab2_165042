@@ -1,6 +1,5 @@
 public class SILab2 {
 
-
         static boolean checkPrime(int n) {
 
             if (n < 0)//A
