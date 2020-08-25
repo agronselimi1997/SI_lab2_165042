@@ -1,5 +1,5 @@
-#Second Lab on the course Software engineering
-##Agron Selimi(165042) 
+# Second Lab on the course Software engineering
+## Agron Selimi(165042) 
 At first I had a lot of problems with IntelliJ I couldn't fix the Cyrilic encoding, shortly i will  fix 
 and then I'll  update the entire README in Macedonian. 
 
@@ -10,7 +10,7 @@ and then I'll  update the entire README in Macedonian.
 
 ![Control Flow Graph Image](Images/Control%20Flow%20Graph.JPG)
  
-###Cyclomatic Cmplexity  
+### Cyclomatic Cmplexity  
 Cyclomatic complexity of this code is 5. I got the results form the formula P +1, 
 where P is the number of breanches in this case P = 4. Aording to the formula cyclomatic complexity is 5.
 
@@ -18,7 +18,7 @@ where P is the number of breanches in this case P = 4. Aording to the formula cy
 ### Test Cases Acording to Every Branch 
 ![Test Cases Acordin to Every Branch](Images/EveryBranchTest.JPG)
 
-###Explaingin Unit Test Cases
+### Explaingin Unit Test Cases
 I made a test class in src / test / java called SILab2Test on which I wrote special functions with 
 the notation @Test for each of the criteria
 
